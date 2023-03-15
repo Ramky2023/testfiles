@@ -1,0 +1,267 @@
+           Healthfirst 
+           100  Church  Street                                                                                                                                                   E 
+           New   York,  NY  l 0007 
+                                                                                                                                                                                 E 
+
+
+           Electronic   Service  Requested 
+
+
+
+
+
+                                                                                                   If you have  any questions,   please call Healthfirst 
+
+                                                                                                                    at (888)    801-1660 
+
+
+
+
+
+                                                                                              Check   No./Client  Ref  ID:  XXXXXXXXX 
+                                                                                              Check   Date:           02/03/2023 
+                                                                                                Check Amount:          $437.36 
+                                                                                              Vendor    ID:            YYYYYYYY 
+                                                                                                                            XXXXXXXXXXXXXXXXX 
+                                                                                                Vendor Name: 
+
+
+
+ Explanation of Payment 
+
+
+Claim #: 111111111               PCP  Name:  XXXX     XXXXXXX                                            PCP#:  XXXXX   XX 
+ Member#: 9524269                Provider Name: XXXX   XXXX  XX                                          Provider ID #:  XXXXX-X 
+                                 Patient Name: STEVE     AUSTIN                                          Patient Acct#: xyz-1234 
+                   Proc/Rev               Total      Allowed       Not                Remark                           Prepaid                   INT      Payment 
+                             Mod                                             Withhold/          Deduct.    Co-Pay/ 
+  Date of Service    Code    #   Units   Charge      Amount      Covered     Discount   Code     Amount    Co-Ins       Amount       COB         AMT       Amount 
+ 01/18/23 - 01/18/23                                      37.41       37.41       0.00                          0.00 
+                    99213        1.00       331.00                                       JN          0.00                   0.00        0.00       0.00        0.00 
+             CLAIM   TOTALS                 331.00        37.41       37.41       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+
+Claim#: 222222222222             PCP  Name:                                                              PCP#: 
+Member#:    83383                Provider Name: XXXX   XXXXX    XX                                       Provider ID #:   XXX-XX 
+                                 Patient Name: John  Cena                                                Patient Acct#: xyz-584 
+                   Proc/Rev  Mod          Total      Allowed       Not      Withhold/ Remark    Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+  Date of Service    Code    #   Units   Charge      Amount      Covered     Discount   Code     Amount    Co-Ins       Amount       COB         AMT       Amount 
+ 12/17/22- 12/17/22 54150        1.00       579.00       109.22      109.22       0.00   03          0.00       0.00        0.00        0.00       0.00        0.00 
+             CLAIM TOTALS                   579.00       109.22      109.22       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+
+                                 PCP  Name:  XXXX-XXXXXXXXXX                                             PCP#:  XXXXX-XX 
+Claim#: 333333333333             Provider Name:   XXXX   XXXX   XX                                       Provider ID #:  XXXXX-X 
+Member  #:  55623                Patient Name: STEVE     ROGERS                                         Patient Acct#: xyz-695 
+                   Proc/Rev  Mod          Total      Allowed       Not       Withhold/ 
+                                                                                      Remark    Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+  Date of Service    Code    #   Units   Charge      Amount      Covered     Discount   Code     Amount    Co-Ins       Amount       COB         AMT       Amount 
+ 01/10/23 - 01/10/23 
+                    76816        1.00       419.00       107.36        0.00       0.00               0.00       0.00        0.00        0.00       0.00      107.36 
+ 01/10/23 -01/10/23 76816        1.00       419.00       107.36      107.36       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+01/10/23-01/10/23   59025        1.00       197.00        45.92       45.92       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/10/23 -01/10/23 59025     59 1.00       197.00        45.92       45.92       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+             CLAIM TOTALS                  1232.00       306.56      199.20       0.00               0.00       0.00        0.00        0.00       0.00      107.36 
+
+                                 PCP  Name:  XXXX-XXXX-XXXXX                                             PCP#:  XXXXX-XX 
+Claim#: 444444444444             Provider Name: XXXXX    XXXXXX-                                         Provider ID#:   XXXXX-X 
+Member#:   909884                Patient Name: TONY  STARK                                              Patient Acct#: xyz-223 
+                   Proc/Rev  Mod          Total                    Not       Withhold/ 
+                                                     Allowed                          Remark    Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+  Date of Service    Code    #   Units   Charge      Amount      Covered     Discount   Code     Amount    Co-Ins       Amount       COB         AMT       Amount 
+ 01/03/23 - 0 I /03/23 
+                    76816        1.00       419.00       107.36      107.36       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/03/23 - 01/03/23                                                 107.36       0.00   JN                     0.00                    0.00 
+                    76816        1.00       419.00       107.36                                      0.00                   0.00                   0.00        0.00 
+ 01103123 - 0 I /03/23 
+                    59025        1.00       197.00        45.92       45.92       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/03/23 - 01/03/23 
+                    59025        1.00       197.00        45.92       45.92       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+             CLAIM TOTALS                  1232.00       306.56      306.56       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+
+Claim#: 555555555555             PCP  Name:  XXXX  XXXX  X                                               PCP #: XXXX-XX 
+Member  #: 546868                Provider Name: XXXX   XXXXX    XX                                       Provider ID #: XXXX-XXPatient Name: ROGERS BROWN Patient Acct#: xyz-336 
+
+                   Proc/Rev               Total      Allowed       Not       Withhold/ 
+                             Mod                                                      Remark    Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+  Date of Service    Code    #   Units   Charge      Amount      Covered     Discount   Code     Amount    Co-Ins       Amount       COB         AMT       Amount 
+ 01/19/23 -01/19/23 99395        1.00       430.00       123.75      123.75       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/19/23 -01/19/23 99213     25 1.00       331.00        99.23       99.23       0.00   JN          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/19/23 - 01/19/23 
+                    1159F        1.00         0.00         0.00        0.00       0.00 
+                                                                                      07,NM          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/19/23 - 01/19/23                          0.00         0.00        0.00       0.00 
+                    1160F        1.00                                                 07,NM          0.00       0.00        0.00        0.00       0.00        0.00 
+             CLAIM TOTALS                   761.00       222.98      222.98       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+
+                                                                                                                                                 Page 1 
+
+
+                                                                                                                                                   0000651-0013843 
+
+                                                                                                    If you  have any  questions,  please call  Healthfirst 
+
+                                                                                                                      at (888)    801-1660 
+
+
+
+
+
+                                                                                               Check   No./Client  Ref  ID:  XXXXXXXXXX 
+                                                                                               Check   Date:            02/03/2023 
+                                                                                                 Check Amount:          $437.36 
+                                                                                               Vendor    ID:            YYYYYYYYYYY 
+                                                                                                 Vendor Name:           XXXXXXXXXXXXXXX 
+
+
+
+
+         Explanation of Payment 
+
+Claim#: 2225555555555             PCP Name:  XXXX   XXXX                                                  PCP#:  XXX-XXX 
+Member  #:2552525255              Provider Name: XXXX XXXX  XXX                                           Provider ID #: XXXX  XX 
+                                  Patient Name: ROBERT   JOHN                                             Patient Acct #: XYZ-1258 
+                    Proc/Rev Mod          Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+   Date of Service   Code     #   Units   Charge       Amount     Covered     Discount   Code     Amount    Co-Ins      Amount         COB        AMT      Amount 
+ 01/13/23 - 01/13/23 54150        1.00       579.00       50.22         0.00       0.00               0.00       0.00        0.00        0.00       0.00       50.22 
+              CLAIM  TOTALS                  579.00       50.22         0.00       0.00               0.00       0.00        0.00        0.00       0.00       50.22 
+
+                                  PCP Name:  XXXXX    XXXXXXX                                             PCP#:  XXXX-XX 
+Claim#:  3333555555555            Provider Name: XXXX XXXXX    XX                                         Provider ID #: XXXXX-XX 
+Member#:   888989898              Patient Name: JOHN  MICHEAL                                             Patient Acct #: XYZ-889 
+   Date of Service  Proc/Rev Mod  Units   Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid        COB        INT      Payment 
+                     Code     #           Charge       Amount     Covered     Discount   Code     Amount    Co-Ins      Amount                    AMT      Amount 
+ 01/24/23 - 01/24/23 76818        1.00       428.00      127.70         0.00       0.00               0.00       0.00        0.00        0.00       0.00      127.70 
+              CLAIM  TOTALS                  428.00      127.70         0.00       0.00               0.00       0.00        0.00        0.00       0.00      127.70 
+
+Claim#:  5655656565565            PCP Name:                                                               PCP#: 
+                                  Provider Name: XXXX XXX  XX                                             Provider ID#: XXXXXX-X 
+Member#:   1111456 
+                                  Patient Name: VELANTINA   ROSSI                                        Patient Acct#: XYZ-777 
+                    Proc/Rev Mod          Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+   Date of Service   Code     #   Units   Charge       Amount     Covered     Discount   Code     Amount    Co-Ins      Amount         COB        AMT      Amount 
+                                               0.00        0.00         0.00           03.21t1· 
+ 06/20/22 - 06/20/22 0500F        1.00                                             0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+              CLAIM  TOTALS                    0.00        0.00         0.00       0.00               0.00       0.00        0.00        0.00       0.00        0.00 
+
+                                  PCP Name:  XXXX  XXXXXX  XX                                             PCP#:  XXXXX-XXX 
+Claim#:888899998888 
+                                  Provider Name: XXXX XXXXXX    X                                         Provider ID#: XXXXX-XX 
+Member#:   6668987 
+                                  Patient Name: SHAWN  MICHEAL                                           Patient Acct#: XYZ-99898 
+                                          Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+   Date of Service IProc/Rev I Mod I U    Charge                              Discount            Amount    Co-Ins      Amount         COB 
+                     Code     #    nits                Amount     Covered                Code                                                     AMT      Amount 
+ 01123123 - 01123123 I 76815 I  I 1.00       312.00       96.69         0.00       0.00               0.00       0.00        0.00        0.00       0.00       96.69 
+              CLAIM  TOTALS                  312.00       96.69         0.00       0.00               0.00       0.00        0.00        0.00       0.00       96.69 
+
+                                  PCP Name:  XXX XXXXX    XXX                                             PCP  fl: XXXXX-XX 
+Claim#:  8889555959955            Provider Name: XXXXXXXX   XXXX                                          Provider ID#: XXXX-XX 
+Member #:  778913                 Patient Name: ROBERT JOHNSON                                           Patient Acct#: XYZ-99897 
+                    Proc/Rev Mod          Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+   Date of Service   Code     #   Units   Charge       Amount     Covered     Discount   Code     Amount    Co-Ins      Amount         COB        AMT      Amount 
+ 01/22/21 -01/22/21  76819        -1.00        0.00        0.00         0.00       0.00   32          0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/22/21 -01/22/21  76816        -1.00     -430.00     -125.50         0.00       0.00   32          0.00       0.00        0.00        0.00       0.00     -125.50 
+              CLAIM  TOTALS                 -430.00     -125.50         0.00       0.00               0.00       0.00        0.00        0.00       0.00     -125.50 
+                                                                                                                                                                             a, 
+                                                                                                                                                                             "' 
+                                                                                                                                                                             "' 
+                                  PCP Name:  XXXXX     XXXXXX                                             PCP#:  XXXX-XX                                                     "' 
+Claim II: 8895555666662           Provider Name: XXXXXX   XXXXXX  XX                                      Provider ID#: XXXXX-XX                                             0 
+Member#:   528989                 Patient Name: MARRY    ROBERT                                           Patient Acct#: XYZ-7741                                            ,,. 
+                                                                                                                                                                             w 
+                                                                                                                                                                             w 
+                    Proc/Rev Mod          Total       Allowed       Not       Withhold/  Remark  Deduct.    Co-Pay/     Prepaid                   INT      Payment 
+   Date of Service   Code     #   Units   Charge       Amount     Covered     Discount   Code     Amount    Co-Ins      Amount         COB        AMT      Amount 
+ 01/22/21 - 01/22/21 76819        1.00         0.00        0.00         0.00       0.00  !M           0.00       0.00        0.00        0.00       0.00        0.00 
+ 01/22/21 - 01/22/21 76816        1.00       430.00      125.50         0.00       0.00               0.00       0.00        0.00        0.00       0.00      125.50 
+                                                                                                                                                  Page 2 
+
+                                                                                            If you have  any questions, please call Healthfirst 
+
+                                                                                                             at (888)  801-1660 
+
+
+
+
+
+
+                                                                                        Check  No./Client  RefID:   XXXXXXXXX 
+                                                                                        Check  Date:           02/03/2023 
+
+                                                                                        Check    Amount:       $437 .36 
+
+                                                                                        Vendor   ID:           YYYYYYYYYY 
+                                                                                        Vendor     Name:       XXXXXXXXXXXXXX 
+
+
+
+
+    Explanation of Payment 
+
+
+                               PCP Name:  XXXXX    XXXXXXX                                        PCP#:  XXXXX-XX 
+Claim #: 8989898989889 
+                               Provider Name: XXXXX  XXXXXX                                     Provider ID#:  XXXX-XX 
+Member #: 25525252 
+                               Patient Name : CAN  ROMAN                                         Patient Acct#: XYZ-888955 
+                I Proc/Rev I Mod       Total      Allowed      Not     Withhold/ Remark  Deduct.    Co-Pay/    Prepaid                INT      Payment 
+   Date of Service Code    #   nits    Charge     Amount     Covered   Discount   Code    Amount    Co-Ins     Amount       COB       AMT      Amount 
+                               IU 
+01/22/21 - 01/22/21 I 76819 I TC I 1.00   505.00     55.39         0.00      0.00             0.00       0.00       0.00       0.00      0.00      55.39 
+             CLAIM TOTALS                 935.00     180.89        0.00      0.00             0.00       0.00       0.00       0.00      0.00      180.89 
+
+       STATEMENT   TOTALS               5959.001   1312.73J    875.371       0.001           0.001       0.001      0.001     0.001     0.001      437.361 
+
+
+
+
+
+    Messages 
+
+    !M             REVIEWED   APPROVED 
+                   MEMBER   NOT ENROLLED   ON  DOS 
+    07             AGE !NV ALID FOR    PROCEDURE 
+    26             CLAIM  EXCEEDS  FILING PERIOD 
+    32             ADJUSTMENT   TO ORIGINAL  CLAIM 
+                   SERVICE REQUIRES  AUTHORIZATION 
+    NM             INFORMATIONALINFO     QUALITY  MEASURE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                 a, 
+                                                                                                                                                                 CD 
+                                                                                                                                                                 CD 
+                                                                                                                                                                 CD 
+                                                                                                                                                                 ....0 
+
+
+
+
+
+
+
+                                                                                                                                        Page 3 
+
+
+                                                                                                                                        0000651-0013845 
+
